@@ -6,3 +6,5 @@ how to insert : vim filename
 how to commit : git commit -am 'version_number'
 how to push : git push
 -end-
+
+hi I'm home!
