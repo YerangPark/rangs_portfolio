@@ -1,60 +1,56 @@
 <!--Heading-->
-#Readme Practice
-___
-#Heading 1
-##Heading 2
-###Heading 3
-####Heading 4
-#####Heading 5
-######Heading 6
-Pragraph
-
+# README.md
 <!--Line-->
 ___
 
 <!--Text attributes-->
-This is the **bold** text and this
-is the *italic* text and let's do
-~~strikethrough~~.
+This is **Park Ye-rang**'s github portfolio.
+This includes an overall project at *Sunkyul University*.
+Inside the compressed file are *reports, exe, and source codes* that were written during the project.
+
+The contact information is **buuuuung@naver.com**
 
 <!--Quote-->
-> Don't forget to code your dream
+> Don't forget to code your dream.
 
-<!--bullet list-->
+<!--bullet list
 Fruite:
 * apple
 * lemon
-
 Other fruite:
 - peach
 - melon
+-->
 
-<!--Numbered list-->
+<!--Numbered list
 1. first
 2. second
 3. third
+-->
 
-<!--Link-->
+<!--Link
 Click [here](http://www.naver.com/)
+-->
 
 <!--Image-->
 ![image description](https://i.pinimg.com/736x/12/38/f2/1238f24679c9585c0e68783a90d71a92.jpg)
 
-<!--Table-->
+<!--Table
 |Header|Description|
 |:--:|:--:|
 |Cell1|Cell2|
 |Cell3|Cell4|
+-->
 
-<!--Code-->
+<!--Code
 `console.log('your message')`
+
 ```js <!-- 여기에 코드이름 적으면 예쁘게 적용됨 :)-->
  consol.log('your long message') 
- ```
+ ```-->
 
-
- <!--Task list-->
+ <!--Task list
  - [x] task1
  - [ ] task2
-
  조금 더 공부해보고 싶다면, Github Flavored Markdown에서 공부하기
+ -->
