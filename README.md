@@ -4,7 +4,7 @@
 ___
 
 <!--Text attributes-->
-This is **Park Ye-rang**'s github portfolio.
+This is **Park Ye-rang**'s github portfolio.<br>
 This includes an overall project at *Sunkyul University*.
 Inside the compressed file are *reports, exe, and source codes* that were written during the project.
 
