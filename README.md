@@ -5,8 +5,8 @@ ___
 
 <!--Text attributes-->
 This is **Park Ye-rang**'s github portfolio.<br>
-This includes an overall project at *Sunkyul University*.
-Inside the compressed file are *reports, exe, and source codes* that were written during the project.
+This includes an overall project at *Sunkyul University*.<br>
+Inside the compressed file are *reports, exe, and source codes* that were written during the project.<br>
 
 The contact information is **buuuuung@naver.com**
 
