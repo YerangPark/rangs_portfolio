@@ -45,11 +45,9 @@ Click [here](http://www.naver.com/)
 <!--Code
 `console.log('your message')`
 
-```js <!-- 여기에 코드이름 적으면 예쁘게 적용됨 :)-->
- consol.log('your long message') 
- ```-->
 
- <!--Task list
+ <!--
+Task list
  - [x] task1
  - [ ] task2
  조금 더 공부해보고 싶다면, Github Flavored Markdown에서 공부하기
