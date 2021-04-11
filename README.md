@@ -10,8 +10,11 @@ Inside the compressed file are *reports, exe, and source codes* that were writte
 
 The contact information is **buuuuung@naver.com**
 
+---
+[졸업 작품 관련 자료](https://drive.google.com/file/d/10jL6JiI7Ly7i3QZpNkhBElU4FfmHysUU/view?usp=sharing)
+
 <!--Quote-->
-> Don't forget to code your dream.
+<!--  Don't forget to code your dream.-->
 
 <!--bullet list
 Fruite:
@@ -33,7 +36,7 @@ Click [here](http://www.naver.com/)
 -->
 
 <!--Image-->
-![image description](https://i.pinimg.com/736x/12/38/f2/1238f24679c9585c0e68783a90d71a92.jpg)
+<!--![image description](https://i.pinimg.com/736x/12/38/f2/1238f24679c9585c0e68783a90d71a92.jpg)-->
 
 <!--Table
 |Header|Description|
