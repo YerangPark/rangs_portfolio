@@ -12,7 +12,8 @@ The contact information is **buuuuung@naver.com**
 
 ---
 [졸업 작품 관련 자료](https://drive.google.com/file/d/1qUpiMPF1XqsFaQuRv81yPqgyFxMi2FfB/view?usp=sharing)
-[전체 프로젝트 포트폴리오(졸작 미포함)](https://drive.google.com/file/d/1tqMUK1ronDhzqjVELwMHNpAyCucpppK5/view?usp=sharing)_
+<br>
+[전체 프로젝트 포트폴리오(졸작 미포함)](https://drive.google.com/file/d/1tqMUK1ronDhzqjVELwMHNpAyCucpppK5/view?usp=sharing)
 
 <!--Quote-->
 <!--  Don't forget to code your dream.-->
