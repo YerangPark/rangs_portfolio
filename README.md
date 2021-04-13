@@ -11,7 +11,7 @@ Inside the compressed file are *reports, exe, and source codes* that were writte
 The contact information is **buuuuung@naver.com**
 
 ---
-[졸업 작품 관련 자료](https://drive.google.com/file/d/10jL6JiI7Ly7i3QZpNkhBElU4FfmHysUU/view?usp=sharing)
+[졸업 작품 관련 자료](https://drive.google.com/file/d/1qUpiMPF1XqsFaQuRv81yPqgyFxMi2FfB/view?usp=sharing)
 
 <!--Quote-->
 <!--  Don't forget to code your dream.-->
